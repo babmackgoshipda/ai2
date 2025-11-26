@@ -77,7 +77,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
   labels[0] : {"texts" : ["중국식 냉면은 맛잇어"], "images" : ["https://cdn.crowdpic.net/detail-thumb/thumb_d_34984726A089DC33CF72AC20674807C1.jpg"]},
   labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://flexible.img.hani.co.kr/flexible/normal/850/566/imgdb/original/2025/0130/20250130500838.jpg"]},
   labels[2] : {"texts" : ["짬뽕은 맛잇어"], "images" : ["https://cdn.crowdpic.net/detail-thumb/thumb_d_12DA88FC4589A289875315B852E563CB.jpg"]},
-  labels[3] : {"texts" : ["탕수은 맛잇어"], "images" : ["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20221011/gv00000435043_1.jpg]},
+  labels[3] : {"texts" : ["탕수은 맛잇어"], "images" : ["https://homecuisine.co.kr/files/attach/images/142/641/041/a9382bbed131c38021261fd2afde9471.JPG]},
                                                      
 }
 
